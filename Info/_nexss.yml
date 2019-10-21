@@ -1,0 +1,5 @@
+debug: true
+files:
+  - name: getWebInfo.ps1
+    cache: 20s
+  - name: console-table.js

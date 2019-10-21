@@ -1,0 +1,4 @@
+name: Screenshoot
+debug: true
+files:
+  - name: src/index.js
