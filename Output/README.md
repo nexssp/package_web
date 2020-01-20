@@ -2,7 +2,7 @@
 
 Different formats of saving Web.
 
-##
+## Examples
 
 ```sh
 nexss Web/Output --website=https://nexss.com --file=myfile.pdf
