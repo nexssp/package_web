@@ -1,8 +1,8 @@
 # Nexss Automation / CLI - wappalyzer/cli, docker, ms.js Example
 
-![MessageBox](assets/message-box.png?raw=true "This message box appears through PowerShell and pass data to nodeJS!")
+![message-box - input example](https://user-images.githubusercontent.com/53263666/72731759-9f2dd100-3b94-11ea-843d-c48ba589600c.png)
 
-![MessageBox](assets/console-table-display-example-nexss.png?raw=true "This message box appears through PowerShell and pass data to nodeJS!")
+![console-table-display-example-nexss](https://user-images.githubusercontent.com/53263666/72731874-d7cdaa80-3b94-11ea-8796-c84b8f294b84.png)
 
 Nexss System allow to run systems in many languages at once. In this case:
 
