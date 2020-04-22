@@ -2,3 +2,6 @@ name: Screenshoot
 debug: true
 files:
   - name: src/index.js
+commands:
+  - name: init
+    command: npm install
