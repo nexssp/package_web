@@ -3,3 +3,5 @@ files:
   - name: getWebInfo.ps1
     cache: 20s
   - name: console-table.js
+errors:
+  "The term 'docker' is not recognized": "You need to have docker installed for Web/Info module. Try scoop install docker"
