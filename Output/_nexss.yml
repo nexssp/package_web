@@ -2,6 +2,9 @@ name: Screenshoot
 debug: true
 files:
   - name: src/index.js
-commands:
-  - name: init
-    command: npm install
+# commands:
+#   - name: init
+#     command: npm install
+# Later to make install on demand as now during
+# Nexss Programmer installation it installs chromium
+# for low Internet connection can take some time
